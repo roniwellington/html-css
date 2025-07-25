@@ -1,4 +1,4 @@
-# 🌱 Meu Primeiro Site com HTML e CSS
+# 🌱 Meu Primeiro Site com HTML e CSS (Curso em Video)
 
 Este projeto marca o **início da minha jornada na programação**.  
 Criei este site simples utilizando **HTML** e **CSS** como forma de aprendizado, explorando os conceitos básicos de estruturação de páginas e estilização.
